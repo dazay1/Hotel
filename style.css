@@ -697,7 +697,7 @@ body {
     margin: 30px -50px;
   }
 }
-@media (max-width:320px) {
+@media (max-width:440px) {
   .footer__input {
     margin: 0px 0px 0px 40px;
   }
@@ -710,6 +710,6 @@ body {
     text-align: center;
   }
   .item-footer__icon {
-    margin: 0px 35px;
+    margin: 0px 50px;
   }
 }
